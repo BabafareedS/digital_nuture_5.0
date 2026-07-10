@@ -28,4 +28,4 @@ The exercises were implemented and tested using JDK 17.
 
 ## Author
 
-GOUTHAM
+Sayed Baba Fareed 
